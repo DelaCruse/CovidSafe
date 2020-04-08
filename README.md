@@ -1,6 +1,6 @@
 # covidsafe
 
-An flutter application to fight against Corona Virus.
+A flutter application to fight against Corona Virus.
 <br><br>
 
 
