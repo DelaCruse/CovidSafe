@@ -1,0 +1,290 @@
+{
+  "predictions" : [
+    {
+      "description" : "Sector 14, Gurgaon, Haryana, India",
+      "id" : "2ea92ba229c2bc4f361f6f9b30c1b3f0961a875c",
+      "matched_substrings" : [
+        {
+          "length" : 9,
+          "offset" : 0
+        },
+        {
+          "length" : 7,
+          "offset" : 11
+        }
+      ],
+      "place_id" : "ChIJ43GLZrIZDTkRChywSQhquuQ",
+      "reference" : "ChIJ43GLZrIZDTkRChywSQhquuQ",
+      "structured_formatting" : {
+        "main_text" : "Sector 14",
+        "main_text_matched_substrings" : [
+          {
+            "length" : 9,
+            "offset" : 0
+          }
+        ],
+        "secondary_text" : "Gurgaon, Haryana, India",
+        "secondary_text_matched_substrings" : [
+          {
+            "length" : 7,
+            "offset" : 0
+          }
+        ]
+      },
+      "terms" : [
+        {
+          "offset" : 0,
+          "value" : "Sector 14"
+        },
+        {
+          "offset" : 11,
+          "value" : "Gurgaon"
+        },
+        {
+          "offset" : 20,
+          "value" : "Haryana"
+        },
+        {
+          "offset" : 29,
+          "value" : "India"
+        }
+      ],
+      "types" : [ "sublocality_level_1", "sublocality", "political", "geocode" ]
+    },
+    {
+      "description" : "Gurgaon-Mehrauli Road, Block M, Old DLF Colony, Sector 14, Gurugram, Haryana, India",
+      "id" : "402770c8434ba0fb3588ccc906cf7de442fa9412",
+      "matched_substrings" : [
+        {
+          "length" : 7,
+          "offset" : 0
+        },
+        {
+          "length" : 9,
+          "offset" : 48
+        }
+      ],
+      "place_id" : "ElNHdXJnYW9uLU1laHJhdWxpIFJvYWQsIEJsb2NrIE0sIE9sZCBETEYgQ29sb255LCBTZWN0b3IgMTQsIEd1cnVncmFtLCBIYXJ5YW5hLCBJbmRpYSIuKiwKFAoSCWUX5LcVHg05Ee6k3PC1C_dTEhQKEgmHMKJXrRkNORE384qnTV4SYQ",
+      "reference" : "ElNHdXJnYW9uLU1laHJhdWxpIFJvYWQsIEJsb2NrIE0sIE9sZCBETEYgQ29sb255LCBTZWN0b3IgMTQsIEd1cnVncmFtLCBIYXJ5YW5hLCBJbmRpYSIuKiwKFAoSCWUX5LcVHg05Ee6k3PC1C_dTEhQKEgmHMKJXrRkNORE384qnTV4SYQ",
+      "structured_formatting" : {
+        "main_text" : "Gurgaon-Mehrauli Road",
+        "main_text_matched_substrings" : [
+          {
+            "length" : 7,
+            "offset" : 0
+          }
+        ],
+        "secondary_text" : "Block M, Old DLF Colony, Sector 14, Gurugram, Haryana, India",
+        "secondary_text_matched_substrings" : [
+          {
+            "length" : 9,
+            "offset" : 25
+          }
+        ]
+      },
+      "terms" : [
+        {
+          "offset" : 0,
+          "value" : "Gurgaon-Mehrauli Road"
+        },
+        {
+          "offset" : 23,
+          "value" : "Block M"
+        },
+        {
+          "offset" : 32,
+          "value" : "Old DLF Colony"
+        },
+        {
+          "offset" : 48,
+          "value" : "Sector 14"
+        },
+        {
+          "offset" : 59,
+          "value" : "Gurugram"
+        },
+        {
+          "offset" : 69,
+          "value" : "Haryana"
+        },
+        {
+          "offset" : 78,
+          "value" : "India"
+        }
+      ],
+      "types" : [ "route", "geocode" ]
+    },
+    {
+      "description" : "Gurgaon Best PG, Sector 14 Road, Block C, Old DLF Colony, Sector 14, Gurugram, Haryana, India",
+      "id" : "f6b1c2153f201810a12adbb51a821be0d8ca4ef9",
+      "matched_substrings" : [
+        {
+          "length" : 7,
+          "offset" : 0
+        },
+        {
+          "length" : 9,
+          "offset" : 58
+        }
+      ],
+      "place_id" : "ChIJaxtM-_AZDTkRahjs3Mgr4kc",
+      "reference" : "ChIJaxtM-_AZDTkRahjs3Mgr4kc",
+      "structured_formatting" : {
+        "main_text" : "Gurgaon Best PG",
+        "main_text_matched_substrings" : [
+          {
+            "length" : 7,
+            "offset" : 0
+          }
+        ],
+        "secondary_text" : "Sector 14 Road, Block C, Old DLF Colony, Sector 14, Gurugram, Haryana, India",
+        "secondary_text_matched_substrings" : [
+          {
+            "length" : 9,
+            "offset" : 41
+          }
+        ]
+      },
+      "terms" : [
+        {
+          "offset" : 0,
+          "value" : "Gurgaon Best PG"
+        },
+        {
+          "offset" : 17,
+          "value" : "Sector 14 Road"
+        },
+        {
+          "offset" : 33,
+          "value" : "Block C"
+        },
+        {
+          "offset" : 42,
+          "value" : "Old DLF Colony"
+        },
+        {
+          "offset" : 58,
+          "value" : "Sector 14"
+        },
+        {
+          "offset" : 69,
+          "value" : "Gurugram"
+        },
+        {
+          "offset" : 79,
+          "value" : "Haryana"
+        },
+        {
+          "offset" : 88,
+          "value" : "India"
+        }
+      ],
+      "types" : [ "lodging", "point_of_interest", "establishment" ]
+    },
+    {
+      "description" : "Sector 14, Imt Manesar, Gurgaon, Haryana, India",
+      "id" : "6b845a09885eeed72e6add23768da4a2f0187774",
+      "matched_substrings" : [
+        {
+          "length" : 9,
+          "offset" : 0
+        },
+        {
+          "length" : 7,
+          "offset" : 24
+        }
+      ],
+      "place_id" : "ChIJ52djVBM-DTkR7gGnrOYVc7Y",
+      "reference" : "ChIJ52djVBM-DTkR7gGnrOYVc7Y",
+      "structured_formatting" : {
+        "main_text" : "Sector 14, Imt Manesar",
+        "main_text_matched_substrings" : [
+          {
+            "length" : 9,
+            "offset" : 0
+          }
+        ],
+        "secondary_text" : "Gurgaon, Haryana, India",
+        "secondary_text_matched_substrings" : [
+          {
+            "length" : 7,
+            "offset" : 0
+          }
+        ]
+      },
+      "terms" : [
+        {
+          "offset" : 0,
+          "value" : "Sector 14"
+        },
+        {
+          "offset" : 11,
+          "value" : "Imt Manesar"
+        },
+        {
+          "offset" : 24,
+          "value" : "Gurgaon"
+        },
+        {
+          "offset" : 33,
+          "value" : "Haryana"
+        },
+        {
+          "offset" : 42,
+          "value" : "India"
+        }
+      ],
+      "types" : [ "sublocality_level_3", "sublocality", "political", "geocode" ]
+    },
+    {
+      "description" : "ICICI Bank Sector 14, Gurgaon - Branch & ATM, DLF Colony, Sector 14, Gurugram, Haryana, India",
+      "id" : "0b3766e02372a08853b07801ece533f96f532970",
+      "matched_substrings" : [
+        {
+          "length" : 44,
+          "offset" : 0
+        }
+      ],
+      "place_id" : "ChIJk5fQzq0ZDTkRzuvjQQUVCZQ",
+      "reference" : "ChIJk5fQzq0ZDTkRzuvjQQUVCZQ",
+      "structured_formatting" : {
+        "main_text" : "ICICI Bank Sector 14, Gurgaon - Branch & ATM",
+        "main_text_matched_substrings" : [
+          {
+            "length" : 44,
+            "offset" : 0
+          }
+        ],
+        "secondary_text" : "DLF Colony, Sector 14, Gurugram, Haryana, India"
+      },
+      "terms" : [
+        {
+          "offset" : 0,
+          "value" : "ICICI Bank Sector 14, Gurgaon - Branch & ATM"
+        },
+        {
+          "offset" : 46,
+          "value" : "DLF Colony"
+        },
+        {
+          "offset" : 58,
+          "value" : "Sector 14"
+        },
+        {
+          "offset" : 69,
+          "value" : "Gurugram"
+        },
+        {
+          "offset" : 79,
+          "value" : "Haryana"
+        },
+        {
+          "offset" : 88,
+          "value" : "India"
+        }
+      ],
+      "types" : [ "atm", "bank", "finance", "point_of_interest", "establishment" ]
+    }
+  ],
+  "status" : "OK"
+}
