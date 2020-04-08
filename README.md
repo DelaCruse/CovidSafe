@@ -1,6 +1,12 @@
 # covidsafe
 
-A new Flutter application.
+An flutter application to fight against Corona Virus.
+<br><br>
+
+
+<img src="assets/Explore%20Screen.JPG" width="250">&nbsp;&nbsp;&nbsp;<img src="assets/Shop%20Screen.JPG" width="250">&nbsp;&nbsp;&nbsp;<img src="assets/Care+%20Screen.JPG" width="250">
+
+
 
 ## Getting Started
 
